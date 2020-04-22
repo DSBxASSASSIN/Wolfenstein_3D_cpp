@@ -1,0 +1,6 @@
+﻿  MyClass.cpp
+  Wolfenstein_3D.cpp
+C:\Users\thijs\source\repos\Wolfenstein_3D\Wolfenstein_3D\Wolfenstein_3D.cpp(18,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thijs\source\repos\Wolfenstein_3D\Wolfenstein_3D\Wolfenstein_3D.cpp(111,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Wolfenstein_3D.vcxproj -> C:\Users\thijs\source\repos\Wolfenstein_3D\Debug\Wolfenstein_3D.exe
